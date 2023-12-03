@@ -49,7 +49,7 @@ yarn ios
 
 ## Requirements
 
-- [Node.js](https://nodejs.org/) (v14 or later)
+- [Node.js](https://nodejs.org/)
 - [React Native CLI](https://reactnative.dev/docs/environment-setup)
 
 ## Project Gif
