@@ -54,4 +54,4 @@ yarn ios
 
 ## Project Gif
 
-![Project gİF](src/assets/images/Simulator-Screen-Recording-iPhone-15-Pro-Max-2023-12-03-at-15.13.21.gif)
+<img src="src/assets/images/Simulator-Screen-Recording-iPhone-15-Pro-Max-2023-12-03-at-15.13.21.gif" alt="Project Demo" width="400" height="800" />
